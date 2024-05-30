@@ -4,11 +4,11 @@ xxxxxxx
 
 If any questions, please contact the author: Mingjie Xu (mingjiexu@whu.edu.cn)
 # Requirement
--Python3
--numpy
--pandas
--scipy
--scikit-learn
--pymannkendall
--seaborn
--matplotlib
+- Python3
+- numpy
+- pandas
+- scipy
+- scikit-learn
+- pymannkendall
+- seaborn
+- matplotlib
