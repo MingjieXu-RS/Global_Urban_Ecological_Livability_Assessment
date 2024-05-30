@@ -7,6 +7,7 @@ If any questions, please contact the author: Mingjie Xu (mingjiexu@whu.edu.cn)
 - Python3
 - numpy
 - pandas
+- geopy
 - scipy
 - scikit-learn
 - pymannkendall
