@@ -11,6 +11,7 @@ If any questions, please contact the author: Mingjie Xu (mingjiexu@whu.edu.cn)
 - scipy
 - scikit-learn
 - pymannkendall
+- pingouin
 - seaborn
 - matplotlib
 # Description of files
