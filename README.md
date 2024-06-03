@@ -1,6 +1,6 @@
 # Global Urban Ecological Livability Assessment
 This repository contains the code used for the key analyses and findings in the paper:
-xxxxxxx  
+xxxxxx
 
 If any questions, please contact the author: Mingjie Xu (mingjiexu@whu.edu.cn)
 # Requirement
